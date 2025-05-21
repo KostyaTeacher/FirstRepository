@@ -1,1 +1,2 @@
 # FirstRepository
+Це перший репозіторій
