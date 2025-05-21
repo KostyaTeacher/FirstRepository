@@ -5,5 +5,5 @@ name = "Kostya"
 number = 10
 is_number = True #False
 
-print(number + 100)
+print(number + 100) #Hello world
 
